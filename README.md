@@ -1,1 +1,2 @@
-Unsure if we should have .gitignore : python Stoyan did when showing us how to make a repository 5. slide on 6. Version control with Git and GitHub
+Unsure if we should have .gitignore : python Stoyan did when showing us how to make a repository 5. slide on 6. Version control with Git and GitHub. Managed to be in the wrong directory when uploading to github. Never used github before and don't know how to see whats actually uploaded, so hope it's not too bad.
+When uploading everything to github on accident, the lost migrations somehow came back on visual studio code but not github????  
